@@ -1,0 +1,11 @@
+C:\Users\ltybj\OneDrive\Desktop\.net\NUnitTesting\SchoolDataOops\bin\Debug\net8.0\SchoolDataOops.deps.json
+C:\Users\ltybj\OneDrive\Desktop\.net\NUnitTesting\SchoolDataOops\bin\Debug\net8.0\SchoolDataOops.dll
+C:\Users\ltybj\OneDrive\Desktop\.net\NUnitTesting\SchoolDataOops\bin\Debug\net8.0\SchoolDataOops.pdb
+C:\Users\ltybj\OneDrive\Desktop\.net\NUnitTesting\SchoolDataOops\obj\Debug\net8.0\SchoolDataOops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ltybj\OneDrive\Desktop\.net\NUnitTesting\SchoolDataOops\obj\Debug\net8.0\SchoolDataOops.AssemblyInfoInputs.cache
+C:\Users\ltybj\OneDrive\Desktop\.net\NUnitTesting\SchoolDataOops\obj\Debug\net8.0\SchoolDataOops.AssemblyInfo.cs
+C:\Users\ltybj\OneDrive\Desktop\.net\NUnitTesting\SchoolDataOops\obj\Debug\net8.0\SchoolDataOops.csproj.CoreCompileInputs.cache
+C:\Users\ltybj\OneDrive\Desktop\.net\NUnitTesting\SchoolDataOops\obj\Debug\net8.0\SchoolDataOops.dll
+C:\Users\ltybj\OneDrive\Desktop\.net\NUnitTesting\SchoolDataOops\obj\Debug\net8.0\refint\SchoolDataOops.dll
+C:\Users\ltybj\OneDrive\Desktop\.net\NUnitTesting\SchoolDataOops\obj\Debug\net8.0\SchoolDataOops.pdb
+C:\Users\ltybj\OneDrive\Desktop\.net\NUnitTesting\SchoolDataOops\obj\Debug\net8.0\ref\SchoolDataOops.dll

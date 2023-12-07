@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NUnit" Version="4.0.1" />
+    <PackageReference Include="NUnit3TestAdapter" Version="4.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="nunit.engine">
+      <HintPath>bin\Debug\net8.0\nunit.engine.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.engine.api">
+      <HintPath>bin\Debug\net8.0\nunit.engine.api.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.engine.core">
+      <HintPath>bin\Debug\net8.0\nunit.engine.core.dll</HintPath>
+    </Reference>
+    <Reference Include="NUnit3.TestAdapter">
+      <HintPath>bin\Debug\net8.0\NUnit3.TestAdapter.dll</HintPath>
+    </Reference>
+    <Reference Include="NUnitTesting">
+      <HintPath>bin\Debug\net8.0\NUnitTesting.dll</HintPath>
+    </Reference>
+    <Reference Include="testcentric.engine.metadata">
+      <HintPath>bin\Debug\net8.0\testcentric.engine.metadata.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8xsm27qjy90IOLkV3iP0nIGav7vkfpU+/UhdPQMS0cU/GaoDz9RTEQmXUFEfMjUuv7j+quZo68XxJLFuY/ZpbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ltybj\\OneDrive\\Desktop\\.net\\NUnitTesting\\NUnitTesting\\NUnitTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ltybj\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\ltybj\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
